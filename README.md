@@ -38,7 +38,7 @@ Systems Engineer with expertise in embedded software development. Currently work
 - Achieved 100% unit test coverage while maintaining compliance with MISRA C++ 2023 standards
 - Collaborated with engineering teams to deliver software solutions within deadlines
 
-**Tech Stack:** C++ (2003), VxWorks RTOS, Wind River Workbench, Polyspace, Agile, CI/CD
+**Tech Stack:** C++ (2003), VxWorks RTOS, Wind River Workbench, Polyspace
 
 ## GitHub Statistics
 
