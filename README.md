@@ -10,7 +10,7 @@ Systems Engineer with expertise in embedded software development. Currently work
 
 - 📍 Garia, Kolkata
 - 💼 Systems Engineer at Tata Consultancy Services, Pune
-- 📫 Contact: [anubhav.mondal.ece24@heritageit.edu.in](mailto:anubhav.mondal.ece24@heritageit.edu.in) | [8240517547](tel:8240517547)
+- 📫 Contact: [anubhav.mondal.ece24@heritageit.edu.in](mailto:anubhav.mondal.ece24@heritageit.edu.in)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anubhav-mondal-222575236/)
 
 ## Technical Skills
